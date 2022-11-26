@@ -1,3 +1,5 @@
+//Код не содержить стилистических ошибок, все методы и переменные в соответствии с CodeStyle
+
 import java.util.Scanner;
 
 public class DepositCalculator {
